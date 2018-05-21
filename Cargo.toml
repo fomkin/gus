@@ -1,0 +1,10 @@
+[package]
+name = "gus"
+version = "0.1.0"
+authors = [ "Aleksey Fomkin <aleksey.fomkin@gmail.com>" ]
+
+[dependencies]
+toml = "0.4"
+clap = "2.31.2"
+serde_derive = "1.0.58"
+serde = "1.0"
